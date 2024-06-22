@@ -22,7 +22,7 @@ TensorFlow (again)
 --> The model is compiled with the Adam optimizer and sparse categorical cross-entropy loss.
 --> The model is trained on the training data for 5 epochs, and the test accuracy is evaluated.
 
-4. PyTorch
+3. PyTorch
 
 --> A simple neural network model is defined using PyTorch, consisting of two linear layers with ReLU and softmax activations, respectively.
 --> The model is instantiated, and the architecture is printed.
