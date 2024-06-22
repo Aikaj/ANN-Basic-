@@ -14,6 +14,7 @@ The provided code is a collection of various neural network models implemented i
 --> The code also defines two plotting functions to visualize the predictions and the probability distributions.
 
 2. Perceptron
+   
 --> A simple perceptron model is defined, which takes in input values and outputs a binary classification result based on the dot product of the inputs and weights.
 TensorFlow (again)
 --> The code loads the MNIST dataset and preprocesses it.
@@ -21,7 +22,7 @@ TensorFlow (again)
 --> The model is compiled with the Adam optimizer and sparse categorical cross-entropy loss.
 --> The model is trained on the training data for 5 epochs, and the test accuracy is evaluated.
 
-3. PyTorch
+4. PyTorch
 
 --> A simple neural network model is defined using PyTorch, consisting of two linear layers with ReLU and softmax activations, respectively.
 --> The model is instantiated, and the architecture is printed.
